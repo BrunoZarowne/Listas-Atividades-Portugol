@@ -1,2 +1,2 @@
-# Listas-Atividades-Portugol
-Todas as atividades feitas no Portugol
+# Listas de Atividades feitas no Portugol
+Atividades realizadas dentro de sala de aula
